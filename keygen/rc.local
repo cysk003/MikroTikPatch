@@ -1,3 +1,0 @@
-#!/bin/sh
-echo "Starting rc.local..." > /dev/tty1
-/rw/disk/keygen > /dev/kmsg 2>&1
